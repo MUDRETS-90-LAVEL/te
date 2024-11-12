@@ -27,7 +27,6 @@ equal_price INT,
 created DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 ```
-
 Поля таблицы:
 ```
 id: Уникальный идентификатор заказа.
